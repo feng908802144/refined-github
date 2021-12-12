@@ -1,4 +1,4 @@
-# <img src="distribution/icon.png" width="45" align="left"> Refined GitHub
+# <img src="distribution/icon.png" width="45" align="left"> Refined GitHub  一款 GitHub 的浏览器插件，支持 Chrome 和 Firefox。这款插件给 GitHub 增加了非常多强大的功能，比如一键合并冲突修复、等待 check 成功后合并 PR、在代码中链接到 Issue/PR 和 url 等，在 README 中有详细的功能列表，可以时常学习一下提高你的生产力
 
 > Browser extension that simplifies the GitHub interface and adds useful features
 
